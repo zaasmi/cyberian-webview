@@ -15,7 +15,7 @@ However, our focus is to provide a mobile app for NodeBB.
 - Sidebar support
 
 ### Docs
-[Click here to get to the Wiki!](https://github.com/ReyKoxha/nodebb-webview/wiki)
+[Click here to get to the Wiki!](https://github.com/zaasmi/cyberian-webview/wiki)
 
 
 ### Credits
